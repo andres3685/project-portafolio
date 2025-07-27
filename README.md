@@ -10,6 +10,16 @@ Bienvenido a mi vitrina de proyectos desarrollados con Python, JavaScript, HTML 
 Organiza automáticamente archivos por tipo en carpetas específicas usando Python y `os` / `shutil`. Ideal para mantener orden en directorios desorganizados.
 🔗 [Ver repositorio](https://github.com/andres3685/project-file-organizer)
 
+### 🔐 Administrador de Contraseñas
+
+Administra contraseñas desde la terminal con seguridad y flexibilidad. Permite generar claves aleatorias con criterios personalizados y almacenarlas para futuras consultas.  
+Ideal para usuarios que prefieren gestionar sus contraseñas localmente y sin depender de servicios externos.
+
+- **Tecnologías:** Python, manipulación de archivos, validaciones, encapsulamiento, generación con `random`.
+- **Funciones clave:** creación automática, verificación de robustez, guardado seguro, historial de contraseñas.
+- 📎 [Ver repositorio](https://github.com/andres3685/password-manager)
+
+
 ### 🕹️ Piedra, Papel o Tijera
 Simula un juego clásico contra la computadora, ¡perfecto para practicar condicionales!
 🔗 [Ver repositorio](https://github.com/andres3685/project-game-rockpaperscissor)
