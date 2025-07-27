@@ -10,6 +10,11 @@ Bienvenido a mi vitrina de proyectos desarrollados con Python, JavaScript, HTML 
 Organiza automáticamente archivos por tipo en carpetas específicas usando Python y `os` / `shutil`. Ideal para mantener orden en directorios desorganizados.
 🔗 [Ver repositorio](https://github.com/andres3685/project-file-organizer)
 
+## 🔐 Secure Password Manager
+Script en Python que genera contraseñas robustas y las guarda localmente.  
+👉 [Ver código en GitHub](https://github.com/andres3685/secure-password-manager)
+
+
 ### 🔐 Administrador de Contraseñas
 
 Administra contraseñas desde la terminal con seguridad y flexibilidad. Permite generar claves aleatorias con criterios personalizados y almacenarlas para futuras consultas.  
